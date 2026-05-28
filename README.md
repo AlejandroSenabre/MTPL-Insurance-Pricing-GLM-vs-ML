@@ -1,6 +1,6 @@
 # Motor Third-Party Liability (MTPL) Insurance Pricing: GLM vs. Machine Learning
 
-> 📢 **Nota del Autor:** Este repositorio y su documentación están redactados íntegramente en inglés con el objetivo pedagógico de practicar y consolidar la escritura técnica en este idioma, alineándome con los estándares globales de la práctica actuarial y la ciencia de datos.
+> 💡 **Nota del proyecto:** Van a encontrar que todo el README y la documentación están en inglés. Tomé la decisión de armarlo así para forzarme a practicar la redacción técnica en inglés y acostumbrarme al vocabulario que se usa internacionalmente en Pricing y Machine Learning.
 
 ## 📌 Project Overview
 This repository implements an end-to-end actuarial pricing pipeline for Motor Third-Party Liability (MTPL) insurance, using the classic French portfolio datasets (`freMTPL2freq` and `freMTPL2sev`). 
